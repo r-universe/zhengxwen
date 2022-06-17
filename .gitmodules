@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gdsfmt"]
+	path = gdsfmt
+	url = https://github.com/zhengxwen/gdsfmt
+	shallow = true
+	registered = true
+[submodule "HIBAG"]
+	path = HIBAG
+	url = https://github.com/zhengxwen/hibag
+	shallow = true
+	registered = true
+[submodule "SeqArray"]
+	path = SeqArray
+	url = https://github.com/zhengxwen/seqarray
+	shallow = true
+	registered = true
+[submodule "SNPRelate"]
+	path = SNPRelate
+	url = https://github.com/zhengxwen/snprelate
+	shallow = true
+	registered = true
