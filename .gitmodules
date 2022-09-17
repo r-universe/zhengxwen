@@ -13,13 +13,3 @@
 	url = https://github.com/zhengxwen/hibag
 	shallow = true
 	registered = true
-[submodule "SeqArray"]
-	path = SeqArray
-	url = https://github.com/zhengxwen/seqarray
-	shallow = true
-	registered = true
-[submodule "SNPRelate"]
-	path = SNPRelate
-	url = https://github.com/zhengxwen/snprelate
-	shallow = true
-	registered = true
