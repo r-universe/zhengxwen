@@ -3,12 +3,12 @@
     "package": "gdsfmt"
   },
   {
-    "package": "HIBAG"
-  },
-  {
     "package": "SeqArray"
   },
   {
     "package": "SNPRelate"
+  },
+  {
+    "package": "HIBAG"
   }
 ]

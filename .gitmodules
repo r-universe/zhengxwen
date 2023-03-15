@@ -8,11 +8,6 @@
 	url = https://github.com/zhengxwen/gdsfmt
 	shallow = true
 	registered = true
-[submodule "HIBAG"]
-	path = HIBAG
-	url = https://github.com/zhengxwen/hibag
-	shallow = true
-	registered = true
 [submodule "SeqArray"]
 	path = SeqArray
 	url = https://github.com/zhengxwen/seqarray
@@ -21,5 +16,10 @@
 [submodule "SNPRelate"]
 	path = SNPRelate
 	url = https://github.com/zhengxwen/snprelate
+	shallow = true
+	registered = true
+[submodule "HIBAG"]
+	path = HIBAG
+	url = https://github.com/zhengxwen/hibag
 	shallow = true
 	registered = true
