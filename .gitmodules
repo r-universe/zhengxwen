@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "gdsfmt"]
-	path = gdsfmt
-	url = https://github.com/zhengxwen/gdsfmt
 [submodule "HIBAG"]
 	path = HIBAG
 	url = https://github.com/zhengxwen/hibag
-[submodule "SeqArray"]
-	path = SeqArray
-	url = https://github.com/zhengxwen/seqarray
 [submodule "SNPRelate"]
 	path = SNPRelate
 	url = https://github.com/zhengxwen/snprelate
+[submodule "SeqArray"]
+	path = SeqArray
+	url = https://github.com/zhengxwen/seqarray
+[submodule "gdsfmt"]
+	path = gdsfmt
+	url = https://github.com/zhengxwen/gdsfmt
